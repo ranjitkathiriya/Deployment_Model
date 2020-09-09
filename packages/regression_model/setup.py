@@ -13,7 +13,7 @@ NAME = 'regression_model'
 DESCRIPTION = 'Regression model for using in the Train In Data online course "Deployment of Machine Learning Models".'
 URL = 'https://github.com/ranjitkathiriya/Deployment_Model'
 EMAIL = 'ranjitkathiriya@gmail.com'
-AUTHOR = 'ChristopherGS'
+AUTHOR = 'ranjitkathiriya'
 REQUIRES_PYTHON = '>=3.6.0'
 
 
